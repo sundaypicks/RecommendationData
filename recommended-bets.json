@@ -45,7 +45,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-08T18:00:00.000Z"
+      "date": "2024-09-08T17:00:00Z"
    },
    {
       "id":2,
@@ -93,7 +93,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-08T20:25:00Z"
+      "date": "2024-09-08T17:00:00Z"
    },
    {
       "id":3,
@@ -141,7 +141,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-08T20:25:00Z"
+      "date": "2024-09-08T17:00:00Z"
    },
    {
       "id":4,
@@ -189,7 +189,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-08T13:00:00Z"
+      "date": "2024-09-08T17:00:00Z"
    },
    {
       "id":5,
@@ -285,7 +285,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-08T17:00:00Z"
+      "date": "2024-09-09T00:20:00Z"
    },
    {
       "id":7,
@@ -333,7 +333,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-05T00:20:00Z"
+      "date": "2024-09-08T17:00:00Z"
    },
    {
       "id":8,
@@ -381,7 +381,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-05T20:20:00Z"
+      "date": "2024-09-06T00:20:00Z"
    },
    {
       "id":9,
@@ -429,7 +429,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-08T16:05:00Z"
+      "date": "2024-09-08T20:05:00Z"
    },
    {
       "id":10,
@@ -573,7 +573,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-08T13:00:00Z"
+      "date": "2024-09-08T17:00:00Z"
    },
    {
       "id":13,
@@ -621,7 +621,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-     "date": "2024-09-08T20:25:00Z"
+     "date": "2024-09-07T00:15:00Z"
    },
    {
       "id":14,
@@ -669,7 +669,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-08T20:25:00Z"
+      "date": "2024-09-08T20:05:00Z"
    },
    {
       "id":15,
@@ -717,7 +717,7 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-08T17:00:00Z"
+      "date": "2024-09-10T00:20:00Z"
    },
    {
       "id":16,
@@ -765,6 +765,6 @@
       "homeTotalUnderOdds":-110,
       "awayTotalOverOdds":-110,
       "awayTotalUnderOdds":-110,
-      "date": "2024-09-08T16:25:00Z"
+      "date": "2024-09-08T20:25:00Z"
    }
 ]
