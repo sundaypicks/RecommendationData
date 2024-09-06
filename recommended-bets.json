@@ -588,7 +588,7 @@
         "awayMoneyLine": 110,
         "spread": -3.5,
         "total": 49.5,
-        "homeGamble": 100,
+        "homeGamble": 0,
         "awayGamble": 0,
         "homePayout": 76.92,
         "awayPayout": 110,
