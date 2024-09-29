@@ -202,7 +202,7 @@
         "basePredictWin": 1,
         "homeMoneyLine": -155,
         "awayMoneyLine": 130,
-        "spread": -3,
+        "spread": -3.5,
         "total": 40,
         "homeGamble": 50,
         "awayGamble": 0,
