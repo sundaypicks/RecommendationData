@@ -327,7 +327,7 @@
         "percentUnderVegasAwayTotal": 0,
         "homeTotalBet": "Under",
         "awayTotalBet": "-",
-        "homeTotalBetAmount": 0,
+        "homeTotalBetAmount": 100,
         "awayTotalBetAmount": 0,
         "homeTotalOverOdds": -105,
         "homeTotalUnderOdds": -130,
