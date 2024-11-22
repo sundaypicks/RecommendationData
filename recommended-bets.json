@@ -136,12 +136,12 @@
         "homeTotalBet": "-",
         "awayTotalBet": "Under",
         "homeTotalBetAmount": 0,
-        "awayTotalBetAmount": 0,
+        "awayTotalBetAmount": 100,
         "homeTotalOverOdds": 100,
         "homeTotalUnderOdds": -120,
         "awayTotalOverOdds": 105,
         "awayTotalUnderOdds": -125,
-        "date": "2024-11-22T00:0015:00Z"
+        "date": "2024-11-22T00:15:00Z"
     },
     {
         "id": 4,
@@ -558,6 +558,7 @@
         "spreadBetAmount": 0,
         "overUnderBetAmt": 0,
         "vegasHomeTotal": 23.5,
+        "vegasAwayTotal": 20.5,
         "percentOverVegasTotal": 100,
         "percentUnderVegasTotal": 0,
         "percentOverVegasHomeTotal": 0,
