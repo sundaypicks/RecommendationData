@@ -280,6 +280,7 @@
         "homeTotalBet": "Under",
         "awayTotalBet": "-",
         "homeTotalBetAmount": 100,
+        "awayTotalBetAmount": 0,
         "homeTotalOverOdds": -105,
         "homeTotalUnderOdds": -125,
         "awayTotalOverOdds": -110,
