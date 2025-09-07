@@ -496,7 +496,7 @@
     "spread": 5.5,
     "total": 47.5,
     "homeGamble": 0,
-    "awayGamble": 100,
+    "awayGamble": 0,
     "homePayout": 205,
     "awayPayout": 100,
     "totalPrediction": 51.8,
@@ -641,7 +641,7 @@
     "Away_Rushing_8": 145,
     "Away_Rushing_9": 154,
     "Away_Rushing_10": 128,
-    "aggressiveBetAmount": 250
+    "aggressiveBetAmount": 0
   },
   {
     "id": 5,
