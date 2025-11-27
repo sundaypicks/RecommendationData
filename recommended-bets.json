@@ -29,7 +29,7 @@
     "underTotalOdds": -110,
     "spreadBetAmount": 110,
     "overUnderBetAmt": 0,
-    "vegasHomeTotal": 29.5,
+    "vegasHomeTotal": 27.5,
     "vegasAwayTotal": 22,
     "percentOverVegasTotal": 50,
     "percentUnderVegasTotal": 50,
@@ -158,7 +158,7 @@
     "Away_Rushing_8": 103,
     "Away_Rushing_9": 73,
     "Away_Rushing_10": 99,
-    "aggressiveBetAmount": 380
+    "aggressiveBetAmount": 190
   },
   {
     "id": 2,
@@ -319,7 +319,7 @@
     "Away_Rushing_8": null,
     "Away_Rushing_9": null,
     "Away_Rushing_10": null,
-    "aggressiveBetAmount": 100
+    "aggressiveBetAmount": 0
   },
   {
     "id": 3,
@@ -480,7 +480,7 @@
     "Away_Rushing_8": null,
     "Away_Rushing_9": null,
     "Away_Rushing_10": null,
-    "aggressiveBetAmount": 100
+    "aggressiveBetAmount": 0
   },
   {
     "id": 4,
@@ -512,8 +512,8 @@
     "underTotalOdds": -110,
     "spreadBetAmount": 0,
     "overUnderBetAmt": 0,
-    "vegasHomeTotal": 24.5,
-    "vegasAwayTotal": 28,
+    "vegasHomeTotal": 23.5,
+    "vegasAwayTotal": 28.5,
     "percentOverVegasTotal": 40,
     "percentUnderVegasTotal": 60,
     "percentOverVegasHomeTotal": 30,
@@ -842,9 +842,9 @@
     "percentUnderVegasHomeTotal": 100,
     "percentOverVegasAwayTotal": 100,
     "percentUnderVegasAwayTotal": 0,
-    "homeTotalBet": "Over",
+    "homeTotalBet": "-",
     "awayTotalBet": "-",
-    "homeTotalBetAmount": 110,
+    "homeTotalBetAmount": 0,
     "awayTotalBetAmount": 0,
     "homeTotalOverOdds": -110,
     "homeTotalUnderOdds": -110,
@@ -1164,9 +1164,9 @@
     "percentUnderVegasHomeTotal": 100,
     "percentOverVegasAwayTotal": 100,
     "percentUnderVegasAwayTotal": 0,
-    "homeTotalBet": "Over",
+    "homeTotalBet": "-",
     "awayTotalBet": "-",
-    "homeTotalBetAmount": 110,
+    "homeTotalBetAmount": 0,
     "awayTotalBetAmount": 0,
     "homeTotalOverOdds": -110,
     "homeTotalUnderOdds": -110,
@@ -1285,7 +1285,7 @@
     "Away_Rushing_8": null,
     "Away_Rushing_9": null,
     "Away_Rushing_10": null,
-    "aggressiveBetAmount": 265
+    "aggressiveBetAmount": 0
   },
   {
     "id": 9,
@@ -1325,9 +1325,9 @@
     "percentUnderVegasHomeTotal": 100,
     "percentOverVegasAwayTotal": 100,
     "percentUnderVegasAwayTotal": 0,
-    "homeTotalBet": "Over",
+    "homeTotalBet": "-",
     "awayTotalBet": "-",
-    "homeTotalBetAmount": 110,
+    "homeTotalBetAmount": 0,
     "awayTotalBetAmount": 0,
     "homeTotalOverOdds": -110,
     "homeTotalUnderOdds": -110,
@@ -1446,7 +1446,7 @@
     "Away_Rushing_8": null,
     "Away_Rushing_9": null,
     "Away_Rushing_10": null,
-    "aggressiveBetAmount": 400
+    "aggressiveBetAmount": 0
   },
   {
     "id": 10,
@@ -1486,9 +1486,9 @@
     "percentUnderVegasHomeTotal": 0,
     "percentOverVegasAwayTotal": 50,
     "percentUnderVegasAwayTotal": 50,
-    "homeTotalBet": "Over",
+    "homeTotalBet": "-",
     "awayTotalBet": "-",
-    "homeTotalBetAmount": 110,
+    "homeTotalBetAmount": 0,
     "awayTotalBetAmount": 0,
     "homeTotalOverOdds": -110,
     "homeTotalUnderOdds": -110,
@@ -1607,7 +1607,7 @@
     "Away_Rushing_8": null,
     "Away_Rushing_9": null,
     "Away_Rushing_10": null,
-    "aggressiveBetAmount": 142
+    "aggressiveBetAmount": 0
   },
   {
     "id": 11,
@@ -1808,10 +1808,10 @@
     "percentUnderVegasHomeTotal": 0,
     "percentOverVegasAwayTotal": 0,
     "percentUnderVegasAwayTotal": 100,
-    "homeTotalBet": "Under",
-    "awayTotalBet": "Under",
-    "homeTotalBetAmount": 110,
-    "awayTotalBetAmount": 110,
+    "homeTotalBet": "-",
+    "awayTotalBet": "-",
+    "homeTotalBetAmount": 0,
+    "awayTotalBetAmount": 0,
     "homeTotalOverOdds": -110,
     "homeTotalUnderOdds": -110,
     "awayTotalOverOdds": -110,
@@ -1929,7 +1929,7 @@
     "Away_Rushing_8": null,
     "Away_Rushing_9": null,
     "Away_Rushing_10": null,
-    "aggressiveBetAmount": 100
+    "aggressiveBetAmount": 0
   },
   {
     "id": 13,
@@ -2130,9 +2130,9 @@
     "percentUnderVegasHomeTotal": 100,
     "percentOverVegasAwayTotal": 100,
     "percentUnderVegasAwayTotal": 0,
-    "homeTotalBet": "Over",
+    "homeTotalBet": "-",
     "awayTotalBet": "-",
-    "homeTotalBetAmount": 110,
+    "homeTotalBetAmount": 0,
     "awayTotalBetAmount": 0,
     "homeTotalOverOdds": -110,
     "homeTotalUnderOdds": -110,
